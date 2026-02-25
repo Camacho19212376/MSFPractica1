@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Tchandra Yahoel Camacho Llanes \[19212376]; l19212376@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
